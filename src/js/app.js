@@ -67,4 +67,5 @@ const newObj = {
   newChanges: true,
 };
 
+
 const addNewFichers = "Ya dobavul ety shtyky";
