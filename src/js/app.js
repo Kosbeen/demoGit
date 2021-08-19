@@ -45,3 +45,8 @@ async function onSubmit() {
 function checkout(a, b) {
   return a + b;
 }
+<<<<<<< HEAD
+=======
+
+const main = "ya tyt tebe shtyky pereslal";
+>>>>>>> calandar
