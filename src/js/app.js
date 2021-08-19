@@ -45,6 +45,7 @@ async function onSubmit() {
 function checkout(a, b) {
   return a + b;
 }
+<<<<<<< HEAD
 
 checkout(1, 2);
 
@@ -74,3 +75,5 @@ function pussy() {
 function pussyWithMyJuicy() {
   const Kostya = "kostya";
 }
+=======
+>>>>>>> main
