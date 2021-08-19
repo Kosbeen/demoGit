@@ -66,9 +66,8 @@ const newObj = {
   number: 8987466568726364,
 };
 
-<<<<<<< HEAD
 const key = "ssh-key";
-=======
 
-const addNewFichers = "Ya dobavul ety shtyky";
->>>>>>> 787678d0c9cbb4809925f4ce3e7df13c2c1be71f
+function pussy() {
+  return "Джуси";
+}
