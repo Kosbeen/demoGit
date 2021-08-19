@@ -51,3 +51,5 @@ checkout(1, 2);
 function addNewBLock() {
   const template = document.querySelector("div");
 }
+
+const inputano = 1234;
