@@ -45,29 +45,3 @@ async function onSubmit() {
 function checkout(a, b) {
   return a + b;
 }
-
-checkout(1, 2);
-
-function addNewBLock() {
-  const template = document.querySelector("div");
-}
-
-const inputano = 1234;
-
-function addNewCommit(inputano) {
-  return inputano;
-}
-
-addNewCommit();
-
-const newObj = {
-  name: "Misha",
-  lastName: "Ovsepyan",
-  number: 8987466568726364,
-};
-
-const key = "ssh-key";
-
-function pussy() {
-  return "Джуси";
-}
