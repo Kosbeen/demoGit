@@ -53,3 +53,9 @@ function addNewBLock() {
 }
 
 const inputano = 1234;
+
+function addNewCommit(inputano) {
+  return inputano;
+}
+
+addNewCommit();
