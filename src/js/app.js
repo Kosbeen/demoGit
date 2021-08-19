@@ -41,3 +41,7 @@ async function onSubmit() {
     notify({ mas: "Login faild", className: "alert-danger" });
   }
 }
+
+function checkout(a, b) {
+  return a + b;
+}
