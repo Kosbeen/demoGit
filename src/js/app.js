@@ -63,4 +63,5 @@ addNewCommit();
 const newObj = {
   name: "Misha",
   lastName: "Ovsepyan",
+  number: 8987466568726364,
 };
