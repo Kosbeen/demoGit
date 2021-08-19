@@ -45,3 +45,5 @@ async function onSubmit() {
 function checkout(a, b) {
   return a + b;
 }
+
+checkout(1, 2);
