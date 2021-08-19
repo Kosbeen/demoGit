@@ -66,3 +66,5 @@ const newObj = {
   number: 8987466568726364,
   newChanges: true,
 };
+
+const addNewFichers = "Ya dobavul ety shtyky";
