@@ -47,3 +47,7 @@ function checkout(a, b) {
 }
 
 checkout(1, 2);
+
+function addNewBLock() {
+  const template = document.querySelector("div");
+}
