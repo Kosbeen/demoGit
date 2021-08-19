@@ -59,3 +59,8 @@ function addNewCommit(inputano) {
 }
 
 addNewCommit();
+
+const newObj = {
+  name: "Misha",
+  lastName: "Ovsepyan",
+};
