@@ -64,7 +64,13 @@ const newObj = {
   name: "Misha",
   lastName: "Ovsepyan",
   number: 8987466568726364,
-  newChanges: true,
 };
+const key = "ssh-key";
 
-const addNewFichers = "Ya dobavul ety shtyky";
+function pussy() {
+  return "Джуси";
+}
+
+function pussyWithMyJuicy() {
+  const Kostya = "kostya";
+}
