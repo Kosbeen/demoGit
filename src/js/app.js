@@ -65,3 +65,5 @@ const newObj = {
   lastName: "Ovsepyan",
   number: 8987466568726364,
 };
+
+const key = "ssh-key";
